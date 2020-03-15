@@ -1,2 +1,2 @@
 # MySQLDive
-SQL Answers for leetcode questions
+SQL Answers for leetcode and hackerank questions
